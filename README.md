@@ -1,8 +1,8 @@
-# Defending Graph Neural Networks via Attribute Debiasing
+
 
 ## Overview
 
-This repository contains python codes and datasets necessary to run the proposed GDBA approach. GDBA is a defense approach designed to defend GNNs while maintaining a low complexity in term of time and operations. The main idea of the paper consists of refining graph edges using the innovative unbiased attribute-augmented PPR. Please refer to our paper for additional specifications.
+This repository contains Python codes and datasets necessary to run the proposed GDBA approach. GDBA is a defense approach designed to defend GNNs while maintaining a low complexity in terms of time and operations. The main idea of the paper consists of refining graph edges using the innovative unbiased attribute-augmented PPR. Please refer to our paper for additional specifications.
 
 
 ## Requirements
@@ -33,7 +33,7 @@ As explained in the GNNGuard's original code, some files need to be substituted 
 
 To train and evaluate the model in the paper, the user should specify the following :
 
-- Dataset : The dataset to be used
+- Dataset: The dataset to be used
 
 - Budget: The budget of the attack
 
